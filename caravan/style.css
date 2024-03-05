@@ -52,14 +52,6 @@ header .heading{/* headerタグ内のheadingクラスにのみ反映される */
         color: #fff; /* 文字色を白に変更 */
 }
 
-.main{
-        width: 840px;/* 横幅いっぱい */
-        /* background-color, heightの指定を解除 */
-        display: flex;/* Flexboxの利用 */
-        justify-content: center;/* 子要素の横並び・中央寄せ */
-        margin: 0 auto;
-}
-
 .blog{
         width: 600px;/* 横幅600px */
         height: 1400px;/* 高さ1400px */
